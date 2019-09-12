@@ -9,15 +9,13 @@ Generally, The source code consists of two main sections:
 
 2) A source.cpp file, which makes an object from CShapeCreator class and sets the required parameters, and in generall manages all the procedure.
 
-## Help
-
-Before running the source code, a sample of algorithm output can be checked by the file named "[Output Shape Samples.png](https://github.com/mortezajalalat/OpenCV-Random-Shape-Generator/blob/master/Output%20Shape%20Samples.png)".
-
-In order to get more detail about the source code please refer to [help file](https://github.com/mortezajalalat/OpenCV-Random-Shape-Generator/blob/master/Help.pdf) file and the comments put inside the source code.
-
-## Pre-built Binary Usage
+## Pre-built Binary Usage Help
 
 A pre-built binary of the code is available here for those unwilling to compile the code from scratch.
 
-## An Easy Way for yor Feedback
+Before running the source code, a sample of algorithm output can be checked by the file named "[Output Shape Samples.png](https://github.com/mortezajalalat/OpenCV-Random-Shape-Generator/blob/master/Output%20Shape%20Samples.png)".
+
+In order to get more detail about the source code please refer to [help file](https://github.com/mortezajalalat/OpenCV-Random-Shape-Generator/blob/master/Help.pdf) and the comments put inside the source code.
+
+## An Easy Way for your Feedback
 I gratefully accept any bug report or suggestion for improving the performance and making the code more reusable. Please feel free to contact me via m.jalalat@gmail.com E-mail.
