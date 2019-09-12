@@ -14,4 +14,4 @@ Before running the source code, a sample of algorithm output can be checked by t
 
 A pre-built binary of the code is available here for those unwilling to compile the code from scratch.
 
-I gratefully accept any bug report or suggestion for improving the performance. Please feel free to contact me via m.jalalat@gmail.com E-mail.
+I gratefully accept any bug report or suggestion for improving the performance and making the code more reusable. Please feel free to contact me via m.jalalat@gmail.com E-mail.
