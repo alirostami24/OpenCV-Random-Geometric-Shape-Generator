@@ -11,7 +11,7 @@ Generally, The source code consists of two main sections:
 
 ## Pre-built Binary Usage Help
 
-A pre-built binary of the code is available here for those unwilling to compile the code from scratch.
+A pre-built binary of the code is available [here](https://github.com/mortezajalalat/OpenCV-Random-Geometric-Shape-Generator/blob/master/Pre-Built%20Binaries.zip) for those unwilling to compile the code from scratch.
 
 Before running the source code, a sample of algorithm output can be checked by the file named "[Output Shape Samples.png](https://github.com/mortezajalalat/OpenCV-Random-Shape-Generator/blob/master/Output%20Shape%20Samples.png)".
 
