@@ -17,5 +17,9 @@ Before running the source code, a sample of algorithm output can be checked by t
 
 In order to get more detail about the source code please refer to [help file](https://github.com/mortezajalalat/OpenCV-Random-Shape-Generator/blob/master/Help.pdf) and the comments put inside the source code.
 
+## Requirements
+- Opencv 3.4.3
+- Visual Studio 2013 redistributable for Windows 7 x64.
+
 ## An Easy Way for your Feedback
 I gratefully accept any bug report or suggestion for improving the performance and making the code more reusable. Please feel free to contact me via m.jalalat@gmail.com E-mail.
